@@ -4,6 +4,10 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel)](https://github.com/JaeSeoKim/badge42)
 
+### Projets terminés
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/libft)](https://github.com/JaeSeoKim/badge42)
+
 ## Piscine d'Août
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
