@@ -6,13 +6,17 @@
 
 ### Projets terminés
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/libft)](https://github.com/JaeSeoKim/badge42)
+* libft
 
 ## Piscine d'Août
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
+# ETML
 
+* [Robot self-balancing](https://github.com/theo-grivel/robot-self-balancing)
+
+# M3
 - 👋 Hi, I’m @theo-grivel
 - 👀 I’m interested in C and electronics
 - 🌱 I’m currently learning informatic in school 42
