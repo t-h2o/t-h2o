@@ -7,7 +7,7 @@
 ### Projets terminés
 
 * [libft](https://github.com/theo-grivel/42-libft)
-
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/Libft)](https://github.com/JaeSeoKim/badge42)
 ### Projets en cours
 
 * [ft printf](https://github.com/theo-grivel/42-printf)
