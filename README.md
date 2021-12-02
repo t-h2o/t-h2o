@@ -6,11 +6,20 @@
 
 ### Projets terminés
 
-* libft
+* [libft](https://github.com/theo-grivel/42-libft)
+
+### Projets en cours
+
+* [ft printf](https://github.com/theo-grivel/42-printf)
+* [get next line](https://github.com/theo-grivel/42-get_next_line)
+* [born 2 be root](https://github.com/theo-grivel/42-born2beroot)
+* [push swap](https://github.com/theo-grivel/42-push_swap)
 
 ## Piscine d'Août
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
+J'ai décidé de mettre aucun programme de la piscine
 
 # ETML
 
