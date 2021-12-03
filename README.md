@@ -16,7 +16,7 @@
 * [get next line](https://github.com/theo-grivel/42-get_next_line)
 * [born 2 be root](https://github.com/theo-grivel/42-born2beroot)
 * [push swap](https://github.com/theo-grivel/42-push_swap)
-* [so long(a game)](https://github.com/theo-grivel/42-solong)
+* [so long](https://github.com/theo-grivel/42-solong) (a game)
 * [minitalk](https://github.com/theo-grivel/42-minitalk)
 
 
