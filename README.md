@@ -16,6 +16,11 @@
 * [get next line](https://github.com/theo-grivel/42-get_next_line)
 * [born 2 be root](https://github.com/theo-grivel/42-born2beroot)
 * [push swap](https://github.com/theo-grivel/42-push_swap)
+* [Pipex](https://github.com/theo-grivel/42-pipex)
+
+Copy this 
+[projet](https://github.com/theo-grivel/cake-mould)
+for a good mould!
 
 
 ## Piscine d'Août
