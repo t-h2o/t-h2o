@@ -36,6 +36,10 @@ J'ai décidé de mettre aucun programme de la piscine
 * [Robot self-balancing](https://github.com/theo-grivel/robot-self-balancing)
 
 
+# gif maker
+
+![NID](assets/homemade.gif)
+
 # M3
 
 - 👋 Hi, I’m Theo
