@@ -39,6 +39,7 @@ J'ai décidé de mettre aucun programme de la piscine
 # gif maker
 
 ![NID](assets/homemade.gif)
+![beach](assets/beach.gif)
 
 # M3
 
