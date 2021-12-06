@@ -40,6 +40,7 @@ J'ai décidé de mettre aucun programme de la piscine
 
 ![NID](assets/homemade.gif)
 ![beach](assets/beach.gif)
+![dude](assets/dude.gif)
 
 # M3
 
