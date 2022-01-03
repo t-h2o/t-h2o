@@ -54,6 +54,8 @@ J'ai décidé de mettre aucun programme de la piscine
 - 📫 Reach me by e-mail: grivel.theo@protonmail.com
 
 
-[<img align="left" alt="Harm Smits | LinkedIn" width="88px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Theo Grivel | LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Theo Grivel | Vim Config" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg" />][vimrc]
 
 [linkedin]: https://www.linkedin.com/in/theo-grivel/
+[vimrc]: https://github.com/0xb1n4r/vim.conf
