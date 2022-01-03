@@ -53,4 +53,4 @@ J'ai décidé de mettre aucun programme de la piscine
 - 🌱 I’m currently learning informatic in [school 42](https://www.42lausanne.ch/)
 - 📫 Reach me by e-mail: grivel.theo@protonmail.com
 [<img align="left" alt="Harm Smits | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/harmsmits/
+[linkedin]: https://www.linkedin.com/in/theo-grivel/
