@@ -6,8 +6,12 @@
 
 ### Projets terminés
 
+#### Rank 0
+
 * [libft](https://github.com/theo-grivel/42-libft)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/Libft)](https://github.com/JaeSeoKim/badge42)
+
+#### Rank 1
 
 * [get next line](https://github.com/theo-grivel/42-get_next_line)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/get_next_line)](https://github.com/JaeSeoKim/badge42)
