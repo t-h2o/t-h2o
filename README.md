@@ -55,4 +55,5 @@ J'ai décidé de mettre aucun programme de la piscine
 
 
 [<img align="left" alt="Harm Smits | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/theo-grivel/
