@@ -26,10 +26,10 @@
 
 #### Rank 0
 
+[api]: https://github.com/JaeSeoKim/badge42
+
 * [libft](https://github.com/theo-grivel/42-libft)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/Libft)][api]
-
-[api]: https://github.com/JaeSeoKim/badge42
 
 #### Rank 1
 
@@ -50,10 +50,9 @@ Copy this
 [projet](https://github.com/theo-grivel/cake-mould)
 for a good mould!
 
-
 ## Piscine d'Août
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel?darkmode=true&cursus=C%20Piscine)][api]
 
 J'ai décidé de mettre aucun programme de la piscine
 
