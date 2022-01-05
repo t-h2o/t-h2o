@@ -20,21 +20,23 @@
 
 ## Cursus actuelle
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel)](https://profile.intra.42.fr/users/tgrivel)
 
 ### Projets terminés
 
 #### Rank 0
 
 * [libft](https://github.com/theo-grivel/42-libft)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/Libft)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/Libft)][api]
+
+[api]: https://github.com/JaeSeoKim/badge42
 
 #### Rank 1
 
 * [get next line](https://github.com/theo-grivel/42-get_next_line)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/get_next_line)][api]
 * [ft printf](https://github.com/theo-grivel/42-printf)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/ft_printf)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/ft_printf)][api]
 
 ### Projets en cours
 
