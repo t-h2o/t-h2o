@@ -13,6 +13,8 @@
 [vimrc]: https://github.com/0xb1n4r/vim.conf/blob/main/vim.conf
 
 &nbsp;
+&nbsp;
+&nbsp;
 
 # École 42 Lausanne
 
