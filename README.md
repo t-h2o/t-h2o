@@ -10,9 +10,7 @@
 [<img align="left" alt="Theo Grivel | Vim Config" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg" />][vimrc]
 
 [linkedin]: https://www.linkedin.com/in/theo-grivel/
-[vimrc]: https://github.com/0xb1n4r/vim.conf/blob/main/vim.conf
-
-
+[vimrc]: https://github.com/0xb1n4r/vim.conf/blob/main/vim.conf	\
 
 # École 42 Lausanne
 
