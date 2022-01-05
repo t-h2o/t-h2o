@@ -12,9 +12,8 @@
 [linkedin]: https://www.linkedin.com/in/theo-grivel/
 [vimrc]: https://github.com/0xb1n4r/vim.conf/blob/main/vim.conf
 
-&nbsp;
-&nbsp;
-&nbsp;
+<br />
+<br />
 
 # École 42 Lausanne
 
