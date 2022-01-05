@@ -7,10 +7,9 @@
 
 
 [<img align="left" alt="Theo Grivel | LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/theo-grivel/)
-[<img align="left" alt="Theo Grivel | Vim Config" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg" />][vimrc]
+[<img align="left" alt="Theo Grivel | Vim Config" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg" />](https://github.com/0xb1n4r/vim.conf/blob/main/vim.conf)
 
-[vimrc]: https://github.com/0xb1n4r/vim.conf/blob/main/vim.conf
-
+<br />
 <br />
 <br />
 
