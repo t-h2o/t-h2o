@@ -16,13 +16,13 @@
 <br />
 <br />
 
-# École 42 Lausanne
+# Shool 42 Lausanne
 
-## Cursus actuelle
+## Current curriculum
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel)](https://profile.intra.42.fr/users/tgrivel)
 
-### Projets terminés
+### Projects completed
 
 #### Rank 0
 
@@ -38,7 +38,7 @@
 * [ft printf](https://github.com/theo-grivel/42-printf)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/ft_printf)][api]
 
-### Projets en cours
+### Projects in progress
 
 
 * [born 2 be root](https://github.com/theo-grivel/42-born2beroot)
@@ -50,11 +50,9 @@ Copy this
 [projet](https://github.com/theo-grivel/cake-mould)
 for a good mould!
 
-## Piscine d'Août
+## August pool
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel?darkmode=true&cursus=C%20Piscine)][api]
-
-J'ai décidé de mettre aucun programme de la piscine
 
 
 # ETML
