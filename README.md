@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning informatic in [school 42](https://www.42lausanne.ch/)
 - 📫 Reach me by e-mail: grivel.theo@protonmail.com
 
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/theo-grivel=anuraghazra&layout=compact" />
+</a>
 
 [<img align="left" alt="Theo Grivel | LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Theo Grivel | Vim Config" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg" />][vimrc]
