@@ -37,11 +37,12 @@
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/get_next_line)][api]
 * [ft printf](https://github.com/theo-grivel/42-printf)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/ft_printf)][api]
+* [born 2 be root](https://github.com/theo-grivel/42-born2beroot)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/born2beroot)][api]
 
 ### Projects in progress
 
 
-* [born 2 be root](https://github.com/theo-grivel/42-born2beroot)
 * [push swap](https://github.com/theo-grivel/42-push_swap)
 * [so long](https://github.com/theo-grivel/42-solong) (a game)
 * [Pipex](https://github.com/theo-grivel/42-pipex)
