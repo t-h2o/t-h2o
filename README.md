@@ -38,7 +38,7 @@
 * [ft printf](https://github.com/theo-grivel/42-printf)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/ft_printf)][api]
 * [born 2 be root](https://github.com/theo-grivel/42-born2beroot)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/born2beroot)][api]
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/Born2beroot)][api]
 
 ### Projects in progress
 
