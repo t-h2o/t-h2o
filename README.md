@@ -4,7 +4,7 @@
 - 👀 I’m interested in C and electronics
 - 🌱 I’m currently learning informatic in [school 42](https://www.42lausanne.ch/)
 - 📫 Reach me by e-mail: grivel.theo@protonmail.com
-- Add me like friend on [brawl stars](https://link.brawlstars.com/invite/friend/en?tag=Q8QQQ0G2&token=sxbbm2ge)
+- Add me as a friend on [brawl stars](https://link.brawlstars.com/invite/friend/en?tag=Q8QQQ0G2&token=sxbbm2ge)
 
 [<img align="left" alt="Theo Grivel | LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Theo Grivel | Vim Config" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg" />][vimrc]
