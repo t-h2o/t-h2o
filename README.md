@@ -1,7 +1,7 @@
 # M3
 
 - 👋 Hi, I’m Theo
-- 👀 I’m interested in C and electronics
+- 👀 I’m interested in C, unix and electronics
 - 🌱 I’m currently learning informatic in [school 42](https://www.42lausanne.ch/)
 - 📫 Reach me by e-mail: grivel.theo@protonmail.com
 - Add me as a friend on [brawl stars](https://link.brawlstars.com/invite/friend/en?tag=Q8QQQ0G2&token=sxbbm2ge)
