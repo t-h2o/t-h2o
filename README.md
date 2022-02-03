@@ -51,10 +51,6 @@ Copy this
 [projet](https://github.com/theo-grivel/cake-mould)
 for a good mould!
 
-## August pool
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel?darkmode=true&cursus=C%20Piscine)][api]
-
 
 # ETML
 
