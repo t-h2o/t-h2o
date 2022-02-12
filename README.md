@@ -4,9 +4,9 @@
 - 👀 I’m interested in C, unix and electronics
 - 🌱 I’m currently learning informatic in [school 42](https://www.42lausanne.ch/)
 - 📫 Reach me by e-mail: grivel.theo@protonmail.com
-- Find my profile on [linkedin][linkedin]
-- Find my [configuration][vimrc]
-- Add me as a friend on [brawl stars](https://link.brawlstars.com/invite/friend/en?tag=Q8QQQ0G2&token=sxbbm2ge)
+- 🌐 Find my profile on [linkedin][linkedin]
+- ⚙️ Find my [configuration][vimrc]
+- ⭐ Add me as a friend on [brawl stars](https://link.brawlstars.com/invite/friend/en?tag=Q8QQQ0G2&token=sxbbm2ge)
 
 [linkedin]: https://www.linkedin.com/in/theo-grivel/
 [vimrc]: https://github.com/theo-grivel/my-configuration
