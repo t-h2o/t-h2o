@@ -17,35 +17,15 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel)](https://profile.intra.42.fr/users/tgrivel)
 
-### Projects completed
-
-#### Rank 0
-
-[api]: https://github.com/JaeSeoKim/badge42
-
-* [libft](https://github.com/theo-grivel/42-libft)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/Libft)][api]
-
-#### Rank 1
-
-* [get next line](https://github.com/theo-grivel/42-get_next_line)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/get_next_line)][api]
-* [ft printf](https://github.com/theo-grivel/42-printf)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/ft_printf)][api]
-* [born 2 be root](https://github.com/theo-grivel/42-born2beroot)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/tgrivel/Born2beroot)][api]
-
 ### Projects in progress
 
-
 * [push swap](https://github.com/theo-grivel/42-push_swap)
-* [so long](https://github.com/theo-grivel/42-solong) (a game)
+* [so long](https://github.com/theo-grivel/42-solong)
 * [Pipex](https://github.com/theo-grivel/42-pipex)
 
 Copy this 
 [projet](https://github.com/theo-grivel/cake-mould)
 for a good mould!
-
 
 # ETML
 
