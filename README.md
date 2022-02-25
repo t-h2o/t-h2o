@@ -13,8 +13,6 @@
 
 # Shool 42 Lausanne
 
-## Current curriculum
-
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel)](https://profile.intra.42.fr/users/tgrivel)
 
 ### Projects in progress
