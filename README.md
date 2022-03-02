@@ -18,7 +18,6 @@
 ### Projects in progress
 
 * [push swap](https://github.com/theo-grivel/42-push_swap)
-* [so long](https://github.com/theo-grivel/42-solong)
 * [Pipex](https://github.com/theo-grivel/42-pipex)
 
 Copy this 
