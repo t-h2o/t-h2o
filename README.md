@@ -17,8 +17,7 @@
 
 ### Projects in progress
 
-* [push swap](https://github.com/theo-grivel/42-push_swap)
-* [Pipex](https://github.com/theo-grivel/42-pipex)
+* [push swap](https://github.com/theo-grivel/42-pushswap)
 
 Copy this 
 [projet](https://github.com/theo-grivel/cake-mould)
