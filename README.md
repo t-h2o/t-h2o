@@ -12,8 +12,11 @@
 [vimrc]: https://github.com/theo-grivel/my-configuration
 
 # Shool 42 Lausanne
-
+<!---
+API stop work a while...
+I put this in comment
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tgrivel)](https://profile.intra.42.fr/users/tgrivel)
+--->
 
 ### Projects in progress
 
