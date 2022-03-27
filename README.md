@@ -1,12 +1,11 @@
 # M3
 
-- 👋 Hi, I’m Theo
-- 👀 I’m interested in C, unix and electronics
-- 🌱 I’m currently learning informatic in [school 42](https://www.42lausanne.ch/)
-- 📫 Reach me by e-mail: grivel.theo@pm.me
-- 🌐 Find my profile on [linkedin][linkedin]
-- ⚙️ Find my [configuration][vimrc]
-- ⭐ Add me as a friend on [brawl stars](https://link.brawlstars.com/invite/friend/en?tag=Q8QQQ0G2&token=sxbbm2ge)
+- I’m interested in C, OS unix-like and electronics
+- I’m currently learning informatic in [school 42](https://www.42lausanne.ch/)
+- Reach me by e-mail: grivel.theo@pm.me
+- Find my profile on [linkedin][linkedin]
+- Try my [configuration][vimrc]
+- Add me as a friend on [brawl stars](https://link.brawlstars.com/invite/friend/en?tag=Q8QQQ0G2&token=sxbbm2ge)
 
 [linkedin]: https://www.linkedin.com/in/theo-grivel/
 [vimrc]: https://github.com/theo-grivel/my-configuration
@@ -28,11 +27,12 @@ for a good mould!
 
 # ETML
 
+I designed a nice robot:
 * [Robot self-balancing](https://github.com/theo-grivel/robot-self-balancing)
 
 
 # gif maker
 
-![NID](assets/homemade.gif)
-![beach](assets/beach.gif)
+![dude](assets/dude.gif)
+![dude](assets/dude.gif)
 ![dude](assets/dude.gif)
