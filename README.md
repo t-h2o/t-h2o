@@ -12,7 +12,8 @@
 
 # Shool 42 Lausanne
 <!--- badge 42 --->
-[![badge 42](https://badge42.herokuapp.com/api/stats/tgrivel)](https://profile.intra.42.fr/users/tgrivel)
+[![badge 42](https://badge42.vercel.app/api/v2/cl1m3ntgl015109kybok8b7fw/stats?cursusId=21&coalitionId=192)](https://profile.intra.42.fr/users/tgrivel)
+
 
 
 ### Projects in progress
@@ -32,5 +33,4 @@ I designed a nice robot:
 # gif maker
 
 ![dude](assets/dude.gif)
-![dude](assets/dude.gif)
-![dude](assets/dude.gif)
+
