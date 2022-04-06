@@ -18,7 +18,7 @@
 
 ### Projects in progress
 
-* [push swap](https://github.com/theo-grivel/42-pushswap)
+* [philosophers](https://github.com/theo-grivel/42-philosophers)
 
 Copy this 
 [projet](https://github.com/theo-grivel/cake-mould)
