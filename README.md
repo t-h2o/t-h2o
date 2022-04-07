@@ -19,6 +19,7 @@
 ### Projects in progress
 
 * [philosophers](https://github.com/theo-grivel/42-philosophers)
+* [minishell](https://github.com/theo-grivel/42-minishell)
 
 Copy this 
 [projet](https://github.com/theo-grivel/cake-mould)
