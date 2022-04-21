@@ -1,14 +1,18 @@
-# M3
+# M3 : Hey, I'm Th30 
 
-- I’m interested in C, OS unix-like and electronics
-- I’m currently learning informatic in [school 42](https://www.42lausanne.ch/)
-- Reach me by e-mail: grivel.theo@pm.me
-- Find my profile on [linkedin][linkedin]
-- Try my [configuration][vimrc]
+
+- Interested in:
+  -  C programming language
+  -  Unix-like OSs
+  -  Electronics
+- Currently learning computer science at [42 Lausanne](https://www.42lausanne.ch/)
+- Checkout my [configuration][lt_conf]
+- Reach me...: grivel.theo@pm.me
+- Find my profile on [linkedin][lt_linkedin]
 - Add me as a friend on [brawl stars](https://link.brawlstars.com/invite/friend/en?tag=Q8QQQ0G2&token=sxbbm2ge)
 
-[linkedin]: https://www.linkedin.com/in/theo-grivel/
-[vimrc]: https://github.com/theo-grivel/my-configuration
+[lt_linkedin]: https://www.linkedin.com/in/theo-grivel/
+[lt_conf]: https://github.com/theo-grivel/my-configuration
 
 # Shool 42 Lausanne
 <!--- badge 42 --->
@@ -27,8 +31,8 @@ for a good mould!
 
 # ETML
 
-I designed a nice robot:
-* [Robot self-balancing](https://github.com/theo-grivel/robot-self-balancing)
+A robot that I have made during my apprenticeship:
+- [Robot self-balancing](https://github.com/theo-grivel/robot-self-balancing)
 
 
 # gif maker
